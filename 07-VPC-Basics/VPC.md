@@ -24,6 +24,7 @@
         * Always start with 3 AZ because it will work in almost any region + 1 spare
         * Structure of one VPC: 
         ![alt text](image.png)
+2. Custom VPC
 
         * Refer to the pdf IP plans to create 1 sample VPC in AWS, then create subnets for the VPC, Internet gateway, route tables to turn Web tiers into public subnets ( the subnets that can access to the internet)
 
